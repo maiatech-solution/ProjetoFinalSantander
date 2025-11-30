@@ -10,11 +10,13 @@ MALWARE/
 
 ransomware.py: Script de criptografia e geração da chave.
 
-decryptor.py: Script para reverter a criptografia (simulando a chave de resgate).
+descriptografar.py: Script para reverter a criptografia (simulando a chave de resgate).
 
 chave.key: Arquivo gerado que armazena a chave de criptografia (secreta).
 
-test\_files/: Diretório seguro para criar arquivos de teste (documento.txt, foto.jpg).
+test\_files/: Diretório seguro contendo(dados_confidenciais.txt, senhas.txt).
+
+LEIA ISSO.txt: mensagem do ransoware
 
 KEYLOGGER/
 
@@ -129,7 +131,7 @@ if \_\_name\_\_ == "\_\_main\_\_":
 main()
 
 
-1. Script de Descriptografia (decryptor.py)
+1. Script de Descriptografia (descriptografar.py)
 
 Este script simula a recuperação dos dados após a obtenção da chave secreta (no cenário de resgate).
 
