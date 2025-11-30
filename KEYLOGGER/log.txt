@@ -1,0 +1,3 @@
+
+[Key.right][Key.right][Key.right][Key.right][Key.f2]w
+[Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right]
